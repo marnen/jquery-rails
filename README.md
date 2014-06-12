@@ -4,7 +4,7 @@ jQuery! For Rails! So great.
 
 This gem provides:
 
-  * jQuery 1.9.0
+  * jQuery 1.9.1
   * jQuery UI 1.9.2 (javascript only)
   * the jQuery UJS adapter
   * assert_select_jquery to test jQuery responses in Ruby tests
@@ -19,6 +19,9 @@ patch version bump = updates to jquery-ujs, jquery-rails, and patch-level update
 minor version bump = minor-level updates to jquery
 major version bump = major-level updates to jquery and updates to rails which may be backwards-incompatible
 ```
+
+See CHANGELOG.md to see which versions of jquery-rails bundle which
+versions of jQuery.
 
 ## Installation
 
